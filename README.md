@@ -1,5 +1,4 @@
-# monitoring-lab
-Monitoring lab using Prometheus, Grafana, and Windows exporter across Linux and Windows VMs.
+
 # Monitoring Lab – Prometheus & Grafana
 
 This project demonstrates a basic infrastructure monitoring setup using **Prometheus** and **Grafana** across **Linux and Windows virtual machines**.
