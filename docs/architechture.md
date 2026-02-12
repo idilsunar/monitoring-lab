@@ -44,6 +44,7 @@ Provide dashboards via Grafana
 Runs on a Windows 11 virtual machine.
 Installed service:
 Windows Exporter (running as a Windows service)
-## Function:Exposing CPU usage, Memory usage, Disk I/O,Network traffic, Running services
+## Function:
+Exposing CPU usage, Memory usage, Disk I/O,Network traffic, Running services
 
 
