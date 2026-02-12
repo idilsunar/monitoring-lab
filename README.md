@@ -76,4 +76,6 @@ scrape_configs:
 
   - job_name: 'windows'
     static_configs:
-      - targets: ['192.168.221.128:9182']
+      - targets: ['<windows-ip>:9182']
+
+
